@@ -1,3 +1,6 @@
 Juste pour comprendre comment fonctionner les pages de GithubIO
 Pas de contenu, d'App dans ce repo
 Juste un /docs qui dvrait contenir le contenu de pages
+
+- Si je modifie uniquement README et rien dans /docs, alors on ne devrait pas avoir de redéploiement
+  udes pages
